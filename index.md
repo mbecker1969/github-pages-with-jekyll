@@ -1,3 +1,12 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+## Martins website
+1. Überschrift
+   1. Punkt 1
+   2. Punkt 2
+2. Überschrift 2
+
+<details>
+  <summary>click me</summary>
+  Das ist Text der versteckt ist :smiley:
+</details>
